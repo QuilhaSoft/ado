@@ -1,4 +1,4 @@
-# QuilhaSoft/ADO
+# QuilhaSoft/ado
 Library to manage database in OOP format, using active record techniques<br>
 
 Please, consider donating funds to support us
