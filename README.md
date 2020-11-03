@@ -11,7 +11,7 @@ Add "quilhasoft/ado":"dev-master" into your composer config file and update/inst
 ##basic usage
 
 ```php
-
+<?php
 namespace quilhasoft;
 
 include '../../../autoload.php'; //load a composer default autoload
@@ -43,6 +43,7 @@ var_dump($companies);
 
 $company = new Company(array('companyID' => '1'));
 var_dump($company);
+?>
 
 ´´´
 
