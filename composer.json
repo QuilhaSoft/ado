@@ -1,0 +1,22 @@
+{
+    "name": "quilhasoft/ado",
+    "type": "library",
+    "description": "",
+    "keywords": ["ado", "oop", "active", "record"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rogerio Muniz de Castro",
+            "email": "rogerio@quilhasoft.net"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {
+            "quilhasoft\\ado\\" : ["ado/src"]
+        }
+    },
+    "require": {
+        "php": ">=5.3.0" 
+    },
+    "config": {}
+}
