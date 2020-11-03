@@ -8,7 +8,7 @@ Please, consider donating funds to support us
 
 Add "quilhasoft/ado":"dev-master" into your composer config file and update/install
 
-##basic usage
+## basic usage
 
 ```php
 <?php
