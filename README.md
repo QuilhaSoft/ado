@@ -4,10 +4,11 @@ Library to manage database in OOP format, using active record techniques<br>
 Please, consider donating funds to support us
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EE7CD4UZEL3A4&source=url)
 
-# Using composer
+## Using composer
 Add "quilhasoft/ado":"dev-master" into your composer config file and update/install
 
-#basic usage
+##basic usage
+
 ```php
 
 namespace quilhasoft;
@@ -43,6 +44,7 @@ $company = new Company(array('companyID' => '1'));
 var_dump($company);
 
 ´´´
+
 ## License
 
 * MIT License
