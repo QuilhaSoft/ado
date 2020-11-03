@@ -42,7 +42,7 @@ var_dump($companies);
 $company = new Company(array('companyID' => '1'));
 var_dump($company);
 
-´´
+´´´
 ## License
 
 * MIT License
