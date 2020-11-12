@@ -47,6 +47,9 @@ var_dump($company);
 
 ```
 
+
+## view more samples in samples folder
+
 ## License
 
 * MIT License
